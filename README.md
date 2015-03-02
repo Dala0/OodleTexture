@@ -1,5 +1,5 @@
 # OodleTexture
-Software that makes OodleCraft textures.
+Software that makes OodleCraft textures, written in PHP, XHTML, CSS, and JavaScript.
 
 Features
 --------
