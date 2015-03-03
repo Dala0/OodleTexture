@@ -10,3 +10,18 @@ Features
 * Sixteen by sixteen tile preview display.
 * Auto refresh function with adjustable rate.
 * Vertical line drawing.
+
+
+Minimum System Requirements
+---------------------------
+
+Server
+------
+
+Web Server
+PHP 5 or later
+
+Client
+------
+
+XHTML, CSS, and JavaScript compliant Web browser
