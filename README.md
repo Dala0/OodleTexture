@@ -18,7 +18,7 @@ Minimum System Requirements
 Server
 ------
 
-Web Server
+Web Server  
 PHP 5 or later
 
 Client
